@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.0.0...3.13.2 FATAL_ERROR)
 
 # Declare project
 project(DCMTK)
-
+message("All your base are belong to us")
 #-----------------------------------------------------------------------------
 # General project settings to configure DCMTK build process
 #-----------------------------------------------------------------------------
